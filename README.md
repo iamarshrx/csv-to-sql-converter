@@ -15,7 +15,7 @@ This tool converts CSV (Comma Separated Values) files into SQL (Structured Query
 
 1. **Clone the Repository**:
 
-git clone https://github.com/your-username/csv-to-sql-converter.git
+git clone https://github.com/iamarshrx/csv-to-sql-converter.git
 
 
 2. **Navigate to the Project Directory**:
