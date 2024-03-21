@@ -44,6 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Feel free to submit issues and pull requests to suggest improvements, report bugs, or add new features.
 
-## Acknowledgements
 
-- This project was created by [Your Name] and is maintained by contributors.
